@@ -1,3 +1,6 @@
+Notebook Link:
+https://colab.research.google.com/drive/1keWuDHQ_iQR1PHyCLA6npin8QOWpFyK5?usp=sharing
+
 Financial Product Recommendation System
 Overview
 The Financial Product Recommendation System is a web-based application that recommends financial products (mutual funds, stocks, bonds, ETFs) based on user preferences. Built as a portfolio project, it leverages natural language processing (NLP) and vector search to match user queries (e.g., "low-risk mutual fund") with a synthetic dataset of 500 financial products. The system uses sentence-transformers for query embeddings, Chroma for vector storage, and a Streamlit UI for user interaction, deployed via ngrok for public access in Google Colab.
